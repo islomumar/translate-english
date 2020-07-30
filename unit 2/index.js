@@ -53,7 +53,7 @@ let translate = [
     { text: `well`, uz: `yaxshi, juda yaxshi, quduq` },
     { text: `with`, uz: `bilan` },
     { text: `word`, uz: `so'z kalima` },
-    { text: `wife`, uz: `hotin, rafiqa` },
+    { text: `wife`, uz: `xotin, rafiqa` },
     { text: `woman`, uz: `ayol` },
     { text: `yes`, uz: `ha` },
 ]
