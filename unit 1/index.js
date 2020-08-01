@@ -33,6 +33,7 @@ const text = [
     { text: 'driver', uz: `haydovchi` },
     { text: 'diamond', uz: `olmos` },
     { text: 'english', uz: `inglis` },
+    { text: 'early', uz: `erta` },
     { text: 'from', uz: `dan` },
     { text: 'father', uz: `ota` },
     { text: 'favourite', uz: `qiziqtirgan` },

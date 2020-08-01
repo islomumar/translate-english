@@ -32,6 +32,7 @@ let translate = [
     { text: `moment`, uz: `lag'za, fursat, payt` },
     { text: `newspaper`, uz: `gazeta` },
     { text: `off`, uz: `uzoq, o'chirilgan` },
+    { text: `oh`, uz: `e, ey` },
     { text: `present`, uz: `hozir` },
     { text: `phone`, uz: `telefon` },
     { text: `park`, uz: `istirohat bog'i, taksi turargoh joyi` },
