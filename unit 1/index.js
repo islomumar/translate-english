@@ -37,7 +37,7 @@ const text = [
     { text: 'from', uz: `dan` },
     { text: 'father', uz: `ota` },
     { text: 'favourite', uz: `qiziqtirgan` },
-    { text: 'foodball', uz: `futbol` },
+    { text: 'football', uz: `futbol` },
     { text: 'friend', uz: `do'st` },
     { text: 'for', uz: `uchun, ...sababli, chunki, negadir` },
     { text: 'good', uz: `yaxshi` },
